@@ -12,3 +12,6 @@ hadoop fs -mkdir /user/mbeltran
 
 # Check java process pids
 jps
+
+#TODO
+1. Add template configs
