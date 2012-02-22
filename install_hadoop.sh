@@ -1,3 +1,4 @@
+# Configure the directories where you want hadoop installed
 HADOOP_HOME=$HOME/BigData
 HADOOP_DOWNLOADS=$HADOOP_HOME/Downloads
 HADOOP_DATA=$HADOOP_HOME/Data
